@@ -6,7 +6,7 @@ def home():
     from pystyle import Colors, Colorate
     import requests
     import ctypes
-    ctypes.windll.kernel32.SetConsoleTitleW('Made by 0xPrime')
+    ctypes.windll.kernel32.SetConsoleTitleW('Made by Plasma')
 
     print(Colorate.Vertical(Colors.blue_to_cyan,'''                                 ('-.                    ('-. .-.   ('-.             .-. .-')     ('-.  _  .-')   
                                 _(  OO)                  ( OO )  / _(  OO)            \  ( OO )  _(  OO)( \( -O )  
