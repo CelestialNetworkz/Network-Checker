@@ -69,8 +69,7 @@ def home():
 
     
     def opt_4():
-        print(Colorate.Horizontal(Colors.red_to_yellow, '''    Made by ! 0xPrime [ 0xprimeisbackpt6 ] '''))
-        print(Colorate.Horizontal(Colors.red_to_yellow, '''    Check out Kyron Team : https://discord.gg/Rs4VnEpB '''))
+        print(Colorate.Horizontal(Colors.red_to_yellow, '''    Made by ! Plasma [ kfsman ] '''))
         input(Colorate.Horizontal(Colors.blue_to_cyan,'''    Press enter to Continue...'''))
         home()
 
